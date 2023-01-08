@@ -1,0 +1,628 @@
+
+.header
+{
+    width: 100%;
+    height: 52px;
+    background-color: #1c1c1c;;
+}
+body
+{
+    margin: 0px;
+}
+.logo
+{
+    margin-left: 97px;
+    float: left;
+}
+#logoimg{
+    margin-top: 10px;
+    width: 52px;
+    
+    height: 32px;
+
+}
+.variant
+{
+        float: left;
+        margin-left: 62px;
+        margin-top: 17px;
+}
+.s1
+{
+    float: left;
+}
+.s1air
+{
+    float: left;
+}
+.bts1
+{
+    color:white;
+    border: none;
+    background: none;
+    font-size: 12px;
+    font-weight: bold;
+    
+}
+.bts1air
+{
+        color: white;
+        border: none;
+        background: none;
+        margin-left: 53px;
+        font-size: 12px;
+        font-weight: bold;
+        
+}
+.expbutton
+{
+        color:white;
+        border: none;
+        background: none;
+        font-size: 13px;
+        font-weight: bold;
+}
+.tstridebt{
+        color:#32c86e;
+        border: none;
+        background: none;
+        font-size: 13px;
+        margin-left: 55px;
+        font-weight: bold;
+        
+}
+.hdleft
+{
+        float: left;
+        margin-top: 17px;
+        margin-left: 762px;
+       
+}
+.imgslctdiv{
+    float: left;
+    margin-left: 39px;
+    margin-top: -11px;
+}
+
+.rightbtns
+{   
+
+    float: left;
+}
+.mainimgdiv
+{
+width: 100%;
+
+}
+#mainimg
+{
+    width: 100%;
+}
+.featureimg
+{
+    width: 48%;
+    background:white;
+    float: left;
+
+}
+.whitecurve
+{
+    margin-top: -30px;
+    width: 100%;
+    height: 53px;
+    background-color: white;
+    transform: rotate(2deg);
+}
+.witblock
+{height: 20px;}
+.ftrscn
+{
+    margin-top: 111px;
+}
+.imgs1
+{
+    width: 450px;
+    margin-left: 278px;
+    margin-top: -3px;
+    height: 600px;
+    
+
+}
+.ftrcontents
+{     font-family: 'Roboto Condensed', sans-serif;font-style: normal;
+    
+    width: 434px;
+    margin-top: -3px;
+    height: 600px;
+    float: left;
+    margin-left: 86px;
+}
+.ftrctnthd
+{
+    font-family: 'Roboto Condensed', sans-serif;font-style: normal;
+    
+    font-size: 31px;
+    margin-top: -43px;
+    line-height: 52px;
+    
+    color: #000;
+    text-shadow: 1.152px 1.152px 0 #fff, 1.728px 1.728px 0 #92c83e;
+
+}
+.quotediv
+{
+    margin-top: -20px;
+}
+.quote
+{
+    font-family: 'Roboto Condensed', sans-serif;font-style: normal;
+    color: #6a6a6a;
+    font-size: 20px;
+}
+.exp
+{
+    font-family: 'Roboto Condensed', sans-serif;font-style: normal;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 1px;    
+    color: #16aa51!important;
+
+}
+.expdiv
+{
+margin-top: -19px;
+}
+.divstun{
+    font-family: 'Roboto Condensed', sans-serif;font-style: normal;
+    margin-left: 4.5px;
+    margin-top: 42px;
+    width: 425px;
+    height: 70.400px;
+    background-color: white;
+}
+.divspec{
+    font-family: 'Roboto Condensed', sans-serif;font-style: normal;
+    margin-left: 4.5px;
+    margin-top: 59px;
+    width: 425px;
+    height: 70.400px;
+    background-color: white;
+}
+.divfut{
+    font-family: 'Roboto Condensed', sans-serif;font-style: normal;
+    margin-left: 4.5px;
+    margin-top: 58px;
+    width: 425px;
+    height: 70.400px;
+    background-color: white;
+}
+.stun
+{
+    font-family: 'Roboto Condensed', sans-serif;font-style: normal;
+    padding-left: 40px;
+    font-size: 21px;
+
+}
+.stun1{
+    margin-left: 40px;
+    margin-top: -19px;
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: 0px;
+}
+.stun2
+{
+    margin-left: 42px;
+    margin-top: -22px;
+    font-weight: 500;
+}
+.rsrv
+{   float: left;
+    margin-top: 43px;
+    margin-left: 4px;
+    font-size: 22px;
+    color: #16aa51;
+}
+.arr
+{
+    margin-top: 51px;
+    margin-left: 3px;
+    width: 20px;
+}
+.space
+{   background-color: white;
+    width: 100%;
+    height: 681.688px;
+}
+.allmodels
+{
+    
+    width: 960px;
+    height: 863.688px;  
+    margin-left: 288px;
+}
+
+.allmodhd
+{
+    
+    width: 450px;
+    height: 99.83px;
+}
+.allmdh1{
+    
+    font-family: 'Roboto Condensed', sans-serif;font-style: normal;
+    
+    font-size: 44px;
+   
+    line-height: 42px;
+    
+    
+    text-shadow: 1.152px 1.152px 0 #fff, 1.728px 1.728px 0 #92c83e;
+    
+}
+.allmdbtns
+{   
+    width: 328px;
+    height: 53px;
+    margin-left: 632px;
+    margin-top: -78px;
+}
+.exbtn
+{
+    background-color: rgb(234, 237, 240);
+float: left;
+width: 158px;
+height: 53px;
+font-family: 'Roboto Condensed', sans-serif;font-style: normal;
+}
+.frbtn
+{   width: 158px;
+    height: 53px;
+    float: left;
+    color: white;
+    background-color:black;
+    margin-left: 12px;
+    font-family: 'Roboto Condensed', sans-serif;font-style: normal;
+}
+.expp
+{
+    margin-left: 46px;
+}
+.frp
+{    margin-left: 37px;}
+.allmodsec
+{
+    
+    width: 960px;
+    height: 393.200px;
+    margin-top: 54px;
+}
+.s11
+{
+   
+    width: 304px;
+    height: 393.200px;
+    float: left;
+    font-family: 'Roboto Condensed', sans-serif;font-style: normal;
+}
+.s12
+{
+    
+    width: 304px;
+    height: 393.200px;
+    float: left;
+    margin-left: 24px;
+    font-family: 'Roboto Condensed', sans-serif;font-style: normal;
+    
+    
+}
+.s13
+{
+    
+    width: 304px;
+    height: 393.200px;
+    float: left;
+    margin-left: 24px;
+    font-family: 'Roboto Condensed', sans-serif;font-style: normal;
+}
+.s11img
+{
+    width: 304px;
+    height: 222px;
+}
+.s12img
+{
+    width: 304px;
+    height: 222px;
+}
+.s13img
+{
+    width: 304px;
+    height: 222px;
+}
+.imglsallmod
+{
+    width: 960px;
+    height: 204.663px;
+    margin-top: 33px;
+}
+.centers
+{
+    
+    width: 980px;
+    height: 420px;
+    margin-left: 288px;
+    margin-top: 139px;
+}
+.centersabt
+{
+    float: left;
+    
+width: 488px;
+height: 420px;
+}
+.centersimg
+{   
+    width: 468px;
+    height: 420px;
+    float: left;
+    margin-left: 24px;
+}
+.centersimg1
+{
+    width: 448px;
+    height: 420px;
+}
+.downdiv
+{
+    margin-top: 100px;
+    background-color: #f2f4f6;
+    width: 100%;
+    height: 428.400px;
+}
+.nwsltr{
+    width: 423px;
+    height: 56px;
+    background-color: black;
+    margin-top: 25px;
+    font-family: 'Roboto Condensed', sans-serif;font-style: normal;
+    color: #fff;
+    padding-top: 1px;
+    box-shadow: -3px 3px 0 #32c86e;
+}
+.ft1
+{
+    
+    width: 1100px;
+    height: 44px;
+    margin-left: 221px;
+    margin-top: 21px;
+}
+.ftrl
+{
+    font-family: 'Roboto Condensed', sans-serif;font-style: normal;
+   
+    float: left; 
+    margin-left: 26.5px;
+    margin-top: 10px;
+}
+.sec-7
+{
+    width: 100%;
+    height: 1091px;
+    
+    font-family: 'Roboto Condensed', sans-serif;font-style: normal;
+}
+.sec-7-hd
+{
+    width: 980px;
+    height: 89px;
+    
+    margin-left: 278px;
+    float: left;
+}
+.sec-7-bdy
+{
+    width:980px;
+    height: 696px;
+    
+    margin-left: 278px; 
+    float: left;
+    
+    
+}
+.sec-7-cnt
+{
+    width: 980px;
+    height: 111px;
+    
+    margin-top: 46px;
+}
+.sec-7-cnt-box1
+{
+    width: 300px;
+    height: 111px;
+    
+    float: left;
+}
+.sec-8
+{
+    height: 520px;
+    width: 100%;
+    
+    font-family: 'Roboto Condensed', sans-serif;font-style: normal;
+}
+.sec-8-min
+{
+    width: 980px;
+    height: 520px;
+    margin-left: 278px;
+    
+}
+.sec-8-ctnt
+{
+    width: 441px;
+    height: 520px;
+    
+    float: left;
+    margin-left: 90px;
+}
+.sec-8-ctnt-hd
+{
+    width: 441px;
+    height: 49px;
+    
+
+}
+.sec-9
+{
+    font-family: 'Roboto Condensed', sans-serif;font-style: normal;
+    
+    width: 102%;
+    height: 1091.11px;
+    background-color: #000;
+    position: relative;
+    margin-top: -30px;
+}
+body{
+    overflow-x: hidden;
+}
+.sec-9-bdy
+{
+    width: 960px;
+    height: 653px;
+    
+    margin-left: 288px;
+    margin-top: 106px;
+    float: left;
+}
+.sec-9-hd
+{
+    width: 960px;
+    height: 49px;
+    
+}
+.sec-10
+{
+    width: 100%;
+    height: 805px;
+    
+    margin-top: 40px;
+}
+.sec-10-min
+{
+    width: 960px;
+    height: 730px;
+   
+    margin-left: 288px;
+}
+.sec-10-hd
+{
+    width: 410px;
+    height: 99px;
+    
+}
+.sec-10-bx1
+{
+    margin-top: 24px;
+    width: 304px;
+    height: 598px;
+    background-color: rgb(240, 239, 230);;
+    
+    float: left;
+}
+body{
+    font-family: 'Roboto Condensed', sans-serif;font-style: normal;
+}
+.sec-11
+{
+    width: 100%;
+    height: 967px;
+    
+}
+.sec-11-bdy
+{
+    width: 950px;
+    height: 950px;
+    
+    margin-left: 288px;
+}
+.sec-11-hd
+{
+    width: 410px;
+    height: 100px;
+    
+}
+.sec-11-ctn
+{
+    float: left;
+    width: 950px;
+    height: 417px;
+    
+}
+.sec-12
+{
+    width: 100%;
+    height: 1403px;
+    background-color: rgb(241, 246, 233);
+    position: relative;
+    margin-top: -91px;
+    margin-left: -3px;
+}
+.sec-12-min
+{
+    width: 960px;
+    height: 1173px;
+    
+    margin-left: 288px;
+    margin-top: 100px;
+    float: left;
+}
+.sec-12-hd
+{
+    width: 576px;
+    height: 100px;
+    
+}
+.sec-12-img
+{
+    width: 960px;
+    height: 409px;
+   
+    margin-top: 24px;
+}
+.sec-13
+{
+    margin-top: 81px;
+    width: 100%;
+    height: 509px;
+    
+}
+.sec-13-hd
+{
+    float:left;
+    width: 608px;
+    height: 49px;
+    
+    margin-left: 288px;
+    margin-top: 60px;
+}
+.sec-13-min
+{
+    margin-left: 288px;
+    margin-top: 48px;
+    float: left;
+    width: 960px;
+    height: 312px;
+    
+
+
+
+}
+.sec-13-bx
+{
+    width: 304px;
+    height: 312px;
+    
+    float: left;
+}
